@@ -1,7 +1,7 @@
 <?php 
 
-
 include 'db.php';
+
 $prenom = $_POST["prenom"];
 $nom = $_POST['nom'];
 $email = $_POST['email'];
